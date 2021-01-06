@@ -11,3 +11,10 @@ PRG1 в данном случае – это имя окружения.
 для Windows команда будет выглядеть так:
 
 > PRG1\Scripts\activate.bat
+
+
+установить зависимости из requirements.txt
+-pip install -r requirements.txt
+
+Создать requirements.txt
+pip freeze > requirements.txt
